@@ -1,3 +1,3 @@
-# Predicting time series with ARIMA, ETS and RNNs
+# Forecasting time series with ARIMA, ETS and RNNs
 [Final report](https://github.com/AlexShashkov/RNN_ARIMA_Forecasting/blob/main/%D0%9D%D0%90%D0%A3%D0%A7%D0%9D%D0%9E-%D0%98%D0%A1%D0%A1%D0%9B%D0%95%D0%94%D0%9E%D0%92%D0%90%D0%A2%D0%95%D0%9B%D0%AC%D0%A1%D0%9A%D0%90%D0%AF%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90_%D0%9A%D0%9C%D0%91%D0%9E-03-20_%D0%A8%D0%90%D0%A8%D0%9A%D0%9E%D0%92%20%D0%90.%D0%90._6%20%D0%A1%D0%95%D0%9C%D0%95%D0%A1%D0%A2%D0%A0.pdf)
 Diploma 2024
